@@ -57,3 +57,13 @@ body{background:#17120f;color:#2b241d}.wallpaper{opacity:.23;filter:sepia(.5) sa
 .voices-panel details a,.credits a{color:#8a4a22 !important;text-decoration:underline}
 .primary{color:#fff8ee !important;background:#a94d2d !important;text-shadow:0 1px 1px #4b1d0e}
 .primary:hover{background:#c25f39 !important}
+/* Ending page contrast: preserve the dark cinematic background while restoring readable memory labels. */
+.ending-scene h1{color:#ffd27a !important;text-shadow:0 2px 18px #000,0 1px 0 #5a351f}
+.ending-scene p{color:#f4eadc !important;text-shadow:0 1px 8px #000}
+.ending-scene label{color:#f0c889 !important;text-shadow:0 1px 6px #000}
+.ending-scene textarea{color:#2b211a !important;background:#fff8ea !important;border:1px solid #d5a96c !important}
+.bag-list article{background:#142928ee !important;border:1px solid #d2aa6b66;border-radius:6px}
+.bag-list article>b{color:#ffd27a !important;text-shadow:0 1px 7px #000}
+.bag-list article strong{color:#f5eadc !important;font-family:var(--serif);font-size:16px}
+.bag-list p{color:#d8cbb9 !important}
+.ending-scene .primary{background:#a94d2d !important;color:#fff8ee !important}
